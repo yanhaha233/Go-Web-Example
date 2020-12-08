@@ -19,3 +19,9 @@
 [9.Middleware(Advanced)](/8.Middleware/Middleware2.md)
 
 [10.Sessions](/9.Sessions/Sessions.md)
+
+[11.JSON](/10.JSON/JSON.md)
+
+[12.Websockets](/11.Websockets/Websockets.md)
+
+[13.Password Hashing](/12.PasswordHashing/PasswordHashing.md)
