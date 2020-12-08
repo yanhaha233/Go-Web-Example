@@ -7,3 +7,9 @@
 [3.Routing](/3.Routing/Routing.md)
 
 [4.MySQL Database](/4.MySQL_Database/MySQL_Database.md)
+
+[5.Templates](/5.Templates/Templates.md)
+
+[6.AssetsAndFiles](/6.AssetsAndFiles/AssetsAndFiles.md)
+
+[7.Forms](/7.Forms/Forms.md)
