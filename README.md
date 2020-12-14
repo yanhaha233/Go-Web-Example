@@ -1,6 +1,6 @@
 ### Go Web Examples
 
-##### 根据 Go webExamples 整理
+##### 根据 Go web Examples 整理
 
 [1.Hello World](/1.HelloWorld/HelloWorld.md)
 
